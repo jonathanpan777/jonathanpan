@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jonathanpan/static/css/main.d9d3bd56.css",
+    "main.js": "/jonathanpan/static/js/main.3d9332bd.js",
+    "index.html": "/jonathanpan/index.html",
+    "main.d9d3bd56.css.map": "/jonathanpan/static/css/main.d9d3bd56.css.map",
+    "main.3d9332bd.js.map": "/jonathanpan/static/js/main.3d9332bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9d3bd56.css",
+    "static/js/main.3d9332bd.js"
+  ]
+}
